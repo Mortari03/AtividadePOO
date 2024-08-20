@@ -15,7 +15,7 @@ export default class Filme {
   }
 }
 
-// Vetor de filmes definido anteriormente
+// Vetor de filme definido anteriormente
 let vetorFilmes = [
   {
     id: "Filme 1",
@@ -82,14 +82,6 @@ let vetorFilmes = [
   },
   {
     id: "Filme 9",
-    nome: "Jurassic Park",
-    duracao: 127,
-    sinopse:
-      "Durante um fim de semana em uma ilha remota, os dinossauros clonados de um magnata escapam de seu confinamento e começam a caçar os visitantes.",
-    ano: 1993,
-  },
-  {
-    id: "Filme 10",
     nome: "Gladiador",
     duracao: 155,
     sinopse:
